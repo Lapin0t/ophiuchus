@@ -1,0 +1,9 @@
+[package]
+name = "ophiuchus"
+version = "0.0.1"
+authors = ["Lapin0t <pborthelle@hadoly.fr>"]
+
+[workspace]
+
+[dependencies]
+simple-scp = { path = "simple-scp" }

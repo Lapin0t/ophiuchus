@@ -1,0 +1,6 @@
+[package]
+name = "simple-scp"
+version = "0.0.1"
+authors = ["Lapin0t <pborthelle@hadoly.fr>"]
+
+[dependencies]
